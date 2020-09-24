@@ -54,6 +54,7 @@
     <Compile Include="Consts.cs" />
     <Compile Include="Enumerations\Faction.cs" />
     <Compile Include="InfoHandler.cs" />
+    <Compile Include="PlayersInformation.cs" />
     <Compile Include="Tools.cs" />
     <Compile Include="Weapons\Blunt\Blunt.cs" />
     <Compile Include="Weapons\Sharp\Axe.cs" />

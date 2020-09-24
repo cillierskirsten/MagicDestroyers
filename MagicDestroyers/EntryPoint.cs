@@ -48,6 +48,8 @@ public class EntryPoint
             }
         }
 
+        PlayersInformation.Initialize(characters);
+
         while (!gameOver)
         {
             //1. Take a random Melee
@@ -104,5 +106,9 @@ public class EntryPoint
 
             //5. If no character is alive from either team the game is over => gameOver = true
         }
+
+        PlayersInformation.UpdateFullInfo(characters);
+        PlayersInformation.Save(characters);
+        PlayersInformation.PrintFullInfo();
     }
 }
