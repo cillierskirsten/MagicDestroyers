@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.csprojAssemblyReference.cache
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.exe.config
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.exe
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.pdb
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.exe
+C:\Users\home\source\repos\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.pdb
